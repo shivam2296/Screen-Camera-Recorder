@@ -9,12 +9,12 @@ Microsoft Expression Encoder 4.(https://www.microsoft.com/en-in/download/details
 
 How to Run?
 
-Install Microsoft Expression Encoder 4 from the above mentioned link.
+1)Install Microsoft Expression Encoder 4 from the above mentioned link.
 
-Run Screen Recorder.exe
+2)Run Screen Recorder.exe
 
-Select installation folder and complete the installation.
+3)Select installation folder and complete the installation.
 
-Go to the installation folder and Run Project.exe
+4)Go to the installation folder and Run Project.exe
 
 The default directory for storing photos and videos is D: You can change it in the settings.
