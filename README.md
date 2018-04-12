@@ -3,8 +3,9 @@ An application for screen recoding and camera recording created using Microsoft 
 
 Requirements:
 
-Microsoft .NET Framework 4.(https://www.microsoft.com/en-us/download/details.aspx?id=24872)
-Microsoft Expression Encoder 4.(https://www.microsoft.com/en-in/download/details.aspx?id=18974)
+1)Microsoft .NET Framework 4.(https://www.microsoft.com/en-us/download/details.aspx?id=24872)
+
+2)Microsoft Expression Encoder 4.(https://www.microsoft.com/en-in/download/details.aspx?id=18974)
 
 
 How to Run?
